@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/FPGA/alu/testalu_isim_beh.exe" -prj "E:/FPGA/alu/testalu_beh.prj" "work.testalu" "work.glbl" 
